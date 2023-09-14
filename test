@@ -2,3 +2,6 @@ First line added in original file
 
 This is the second line (updated one)
 I want to push these changes into a sub-branch in Git-hub.
+
+This is the third line (sencond update)
+This I've updated in testbranch in Git and want to save it in testbranch of GitHub
